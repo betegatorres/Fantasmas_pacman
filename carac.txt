@@ -1,0 +1,24 @@
+
+1. Blinky (Vermelho) — O Perseguidor
+
+• Apelido: Shadow (Sombra)
+• Personalidade: É o mais agressivo e direto.
+• Comportamento: Persegue a posição atual exata do Pac-Man de forma implacável. Ele fica ainda mais rápido na metade do nível (fase conhecida como Cruise Elroy) conforme as bolinhas vão acabando.
+
+2. Pinky (Rosa) — A Emboscadora
+
+• Apelido: Speedy (Veloz)
+• Personalidade: Tenta prever os movimentos do jogador.
+• Comportamento: Em vez de mirar diretamente no Pac-Man, ela aponta para uma posição quatro casas à frente da direção para onde o Pac-Man está olhando, tentando armar uma emboscada.
+
+3. Inky (Azul) — O Estrategista / Flanqueador
+
+• Apelido: Bashful (Timido)
+• Personalidade: O mais complexo e imprevisível dos quatro.
+• Comportamento: Sua lógica de perseguição é baseada em uma combinação da posição atual do Pac-Man (duas casas à frente) com a posição do Blinky, criando um movimento de pinça para cercar o jogador.
+
+4. Clyde (Laranja) — O Imprevisível / Errante
+
+• Apelido: Pokey (Lento)
+• Personalidade: Aparenta ser indiferente ou "medroso".
+• Comportamento: Quando está longe do Pac-Man, ele o persegue como o Blinky; porém, se chegar a menos de 8 tiles (casas) de distância do Pac-Man, ele desiste da perseguição e foge de volta para o canto inferior esquerdo do mapa.
